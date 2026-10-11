@@ -1,0 +1,6 @@
+.container { max-width: 600px; margin: 40px auto; padding: 0 16px; font-family: sans-serif; }
+form { display: flex; flex-direction: column; gap: 8px; margin-bottom: 24px; }
+input, textarea, select, button { padding: 8px; font-size: 1rem; }
+ul { list-style: none; padding: 0; }
+.task-item { border: 1px solid #ccc; border-radius: 6px; padding: 12px; margin-bottom: 10px; }
+.task-item button { margin-right: 8px; margin-top: 8px; }
